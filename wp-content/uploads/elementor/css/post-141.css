@@ -1,0 +1,23 @@
+.elementor-141 .elementor-element.elementor-element-5110b79 > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-141 .elementor-element.elementor-element-5110b79:not(.elementor-motion-effects-element-type-background), .elementor-141 .elementor-element.elementor-element-5110b79 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#0B0035D9;}.elementor-141 .elementor-element.elementor-element-5110b79{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:-80px;z-index:999;}.elementor-141 .elementor-element.elementor-element-5110b79 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-141 .elementor-element.elementor-element-7d459de{text-align:left;}.elementor-141 .elementor-element.elementor-element-e3892e1 .elementor-menu-toggle{margin-left:auto;background-color:#3F3E7E38;}.elementor-141 .elementor-element.elementor-element-e3892e1 .elementor-nav-menu .elementor-item{font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-141 .elementor-element.elementor-element-e3892e1 .elementor-nav-menu--main .elementor-item{color:#FFFFFF;fill:#FFFFFF;}.elementor-141 .elementor-element.elementor-element-e3892e1 .elementor-nav-menu--main .elementor-item:hover,
+					.elementor-141 .elementor-element.elementor-element-e3892e1 .elementor-nav-menu--main .elementor-item.elementor-item-active,
+					.elementor-141 .elementor-element.elementor-element-e3892e1 .elementor-nav-menu--main .elementor-item.highlighted,
+					.elementor-141 .elementor-element.elementor-element-e3892e1 .elementor-nav-menu--main .elementor-item:focus{color:#EB761C;fill:#EB761C;}.elementor-141 .elementor-element.elementor-element-e3892e1 .elementor-nav-menu--main .elementor-item.elementor-item-active{color:#ec761c;}.elementor-141 .elementor-element.elementor-element-e3892e1 div.elementor-menu-toggle{color:#FFFFFF;}.elementor-141 .elementor-element.elementor-element-e3892e1 div.elementor-menu-toggle svg{fill:#FFFFFF;}@media(max-width:1024px){.elementor-141 .elementor-element.elementor-element-e3892e1 .elementor-nav-menu--main .elementor-item{padding-top:12px;padding-bottom:12px;}}@media(max-width:767px){.elementor-141 .elementor-element.elementor-element-a334319{width:50%;}.elementor-141 .elementor-element.elementor-element-7d30c31{width:50%;}.elementor-141 .elementor-element.elementor-element-e3892e1 .elementor-nav-menu--main .elementor-item{padding-top:18px;padding-bottom:18px;}.elementor-141 .elementor-element.elementor-element-e3892e1 .elementor-menu-toggle{border-width:0px;border-radius:0px;}}/* Start custom CSS for image, class: .elementor-element-7d459de */.logo img {
+max-width: 140px;
+height: auto;
+transition: all 0.5s ease;
+}
+
+.elementor-sticky--effects .logo img {
+max-width: 120px;
+height: auto;
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-5110b79 */.logo img {
+max-width: 140px;
+height: auto;
+transition: all 0.5s ease;
+}
+
+.elementor-sticky--effects .logo img {
+max-width: 120px;
+height: auto;
+}/* End custom CSS */

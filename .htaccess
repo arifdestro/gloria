@@ -1,0 +1,22 @@
+
+# BEGIN WordPress
+# Arahan (baris) antara "BEGIN WordPress" dan "END WordPress"
+# dihasilkan secara dinamis, dan hanya dapat dimodifikasi melalui filter WordPress.
+# Setiap perubahan pada arahan di antara penanda berikut akan ditimpa.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /gloria/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /gloria/index.php [L]
+</IfModule>
+
+php_value upload_max_filesize 300M
+php_value post_max_size 300M
+php_value memory_limit 500M
+php_value max_execution_time 0
+php_value max_input_time 300
+
+# END WordPress
