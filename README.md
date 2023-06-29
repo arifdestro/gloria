@@ -1,2 +1,2 @@
-# blog
-Blog Menggunakan CI_3 Base
+# Wordpress
+Wordpress simpel landing page + Plugin Elementor
